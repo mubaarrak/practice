@@ -1,10 +1,11 @@
 package com.codility;
 
-
+/*https://shengqianliu.me/heaps-and-maps/longest-happy-string
+*/
 
 import java.util.PriorityQueue;
 
-class Solution1 {
+public class LongestHappyString {
     class Node {
         char c;
         int remain;

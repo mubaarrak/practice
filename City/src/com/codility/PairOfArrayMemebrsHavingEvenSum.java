@@ -1,3 +1,4 @@
+package com.codility;
 public class PairOfArrayMemebrsHavingEvenSum {
 	public static void main(String[] args) {
 		//int nums[] = new int[] { 14, 21, 16, 35, 22 };
